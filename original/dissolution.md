@@ -1,10 +1,7 @@
 <div class="inner">
 
-<div class="rte main-introduction">
-
 Dissolution is the official term for the end of a Parliament. Under the Fixed-term Parliaments Act 2011 a general election must be held in the UK, and a new Parliament elected, every five years.
 
-</div>
 
 *   [How can Parliament be dissolved?](#jump-link-0)
 *   [What happens to Parliament at dissolution?](#jump-link-1)
